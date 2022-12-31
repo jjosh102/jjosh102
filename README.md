@@ -1,5 +1,5 @@
 ### Hi there! 👋  I'm Josh, thanks for stopping by.
-Just a regular developer who loves exploring new stuff.
+:octocat: Just a regular developer who loves exploring new stuff.
 
 <!--
 **obaki102/obaki102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
