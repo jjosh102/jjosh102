@@ -1,4 +1,4 @@
-### Hi there! Thanks for stopping by, I'm Josh👋
+### Hi there! 👋  I'm Josh, thanks for stopping by.
 Just a regular developer who loves exploring new stuff.
 
 <!--
