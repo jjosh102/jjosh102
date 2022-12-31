@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! Thanks for stopping by, I'm Josh👋
+I'm a developer who loves exploring new stuff.
 
 <!--
 **obaki102/obaki102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
