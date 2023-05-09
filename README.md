@@ -8,5 +8,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaki102&show_icons=true&locale=en&layout=compact" alt="obaki102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaki102&show_icons=true&locale=en" alt="obaki102" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaki102&show_icons=true&locale=en&layout=compact" alt="obaki102" /></p> 
  
