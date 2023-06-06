@@ -5,7 +5,7 @@
 <h1 align="center"></h1>
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaki102&count_private=true&show_icons=true&locale=en&layout=compact" alt="obaki102" />
-</p>
+</p> 
 <p align="center"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=obaki102&count_private=true&show_icons=true&locale=en" alt="obaki102"/>
 </p>
