@@ -1,7 +1,7 @@
 name: Daily Commit
 on:
   schedule:
-    - cron: '3 16 * * *'
+    - cron: '0 16,22 * * *'
     
 jobs:
   build:
