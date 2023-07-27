@@ -1,6 +1,7 @@
 name: Daily Commit
 
 on:
+  push:
   schedule:
     - cron: '0 16 * * *'
 
