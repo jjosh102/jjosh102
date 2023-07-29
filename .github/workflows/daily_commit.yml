@@ -19,7 +19,7 @@ jobs:
 
     - name: Make daily commit
       run: |
-        echo "Daily commit - $(date +'%Y-%m-%d')" >> daily_commit.txt
+        echo "Daily commit - $(date)" >> daily_commit.txt
         git add daily_commit.txt
         git commit -m "Daily commit - $(date +'%Y-%m-%d')"
         git push
