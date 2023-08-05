@@ -8,7 +8,7 @@
 </p> 
 <p align="center"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=obaki102&count_private=true&show_icons=true&locale=en" alt="obaki102"/>
-</p>
+</p> 
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaki102&count_private=true" alt="obaki102" />  
 </p> 
